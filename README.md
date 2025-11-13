@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center" style="color: #39ff14;">I'm js a skid lol.</h1>
 
-<!--
-**systemremote/systemremote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Languages:
+![Tools of the Trade](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=5000&color=FFFFFF&width=400&lines=Python+JavaScript+HTML+CSS+C+Rust.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Currently Making:
+![A Multipurpose](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=5000&color=FFFFFF&vCenter=true&width=400&lines=A+Multipurpose+Discord+Bot.)
+
+---
+
+### Contact Me:
+
+---
+
+### Github:
+![](https://github-readme-stats.vercel.app/api?username=systemremote&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=systemremote&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=systemremote&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
