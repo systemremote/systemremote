@@ -36,17 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/systemremote/systemremote/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=systemremote.systemremote&"  />
-</div>
-
-
 ### GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=systemremote&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=systemremote&theme=dark&hide_border=false)<br/>
