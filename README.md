@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #39ff14;">skidremote</h1>
+<h1 align="center" style="color: #FFFFFF;">skidremote</h1>
 
 ---
 
