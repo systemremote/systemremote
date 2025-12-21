@@ -8,7 +8,7 @@
 ---
 
 ### Currently Making:
-![A Multipurpose](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=5000&color=FFFFFF&vCenter=true&width=400&lines=A+Discord-Bot+and+Self-Bot.)
+![A Multipurpose](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=5000&color=FFFFFF&vCenter=true&width=400&lines=A+Discord+Bot+and+Self+Bot.)
 
 ---
 
